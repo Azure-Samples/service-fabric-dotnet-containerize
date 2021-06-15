@@ -1,57 +1,21 @@
-# Project Name
+# Fabrikam Fiber sample application
 
-(short, 1-3 sentenced, description of the project)
-
-## Features
-
-This project framework provides the following features:
-
-* Feature 1
-* Feature 2
-* ...
+*Fabrikam Fiber* is a sample .NET application for use with the tutorial, [Deploy a .NET application in a Windows container to Azure Service Fabric](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-host-app-in-a-container).
 
 ## Getting Started
 
 ### Prerequisites
 
-(ideally very short, if any)
-
-- OS
-- Library version
-- ...
-
-### Installation
-
-(ideally very short)
-
-- npm install [package name]
-- mvn install
-- ...
+Running the sample independent of the [associated tutorial](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-host-app-in-a-container) only requires Visual Studio. To complete the steps of the tutorial (containerize an application, create a Azure SQL database, create an Azure container registry, and deploy a Service Fabric application to Azure), see the the [complete list of prerequisites](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-host-app-in-a-container#prerequisites).
 
 ### Quickstart
 (Add steps to get up and running quickly)
 
-1. git clone [repository clone url]
-2. cd [respository name]
-3. ...
-
-
-## Demo
-
-A demo app is included to show how to use the project.
-
-To run the demo, follow these steps:
-
-(Add steps to start up the demo)
-
-1.
-2.
-3.
+1. git clone https://github.com/Azure-Samples/service-fabric-dotnet-containerize.git
+2. cd service-fabric-dotnet-containerize/
+3. Launch Visual Studio as administrator, and open the [VS2015\FabrikamFiber.CallCenter.sln][link-fabrikam-github] solution.
+4. Press F5 to run and debug the application.
 
 ## Resources
 
-(Any additional resources or related projects)
-
-- Link to supporting information
-- Link to similar sample
-- ...
+- [Deploy a .NET application in a Windows container to Azure Service Fabric](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-host-app-in-a-container)
