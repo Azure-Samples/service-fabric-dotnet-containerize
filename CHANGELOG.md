@@ -1,13 +1,6 @@
-## [project-title] Changelog
+## Fabrikam Fiber sample application changelog
 
-<a name="x.y.z"></a>
-# x.y.z (yyyy-mm-dd)
+<a name="initial"></a>
+# 1.0 (2021-06-15)
 
-*Features*
-* ...
-
-*Bug Fixes*
-* ...
-
-*Breaking Changes*
-* ...
+* Ported Service Fabric *Fabrikam Fiber* sample application from [CodePlex Archive](https://archive.codeplex.com/?p=fabrikam) to Github
